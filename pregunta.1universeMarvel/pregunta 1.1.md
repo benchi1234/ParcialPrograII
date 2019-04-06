@@ -1,0 +1,19 @@
+-
+-  primero creo direcctorio 
+-  ``` bash
+-  mkdir Marvel universe
+-  ```
+- entrar al 
+-  ``` bash
++  cd marvel 
+-   ```
+-  crear el resto de archivos 
+-  ``` bash
+- touch ironman.txt 
+- touch capitanamerica.sh
+- touch panteranegra.sh 
+- touch starlord.jpg
+- touch drstrange.jpg 
+- spiderman.ino
+- thor.md 
+- ```
